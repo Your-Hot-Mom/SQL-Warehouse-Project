@@ -21,9 +21,9 @@ Develop a modern data warehouse using SQL Server to consolidate sale data, enabl
 
 ------
 
-### BI: anlytics & Reporting (Data Analytics)
+### BI: anlytics & Reporting (Data Analytics):
 
-#### Objective
+#### Objective:
 Develop SQL-based analytics to deliver detailed insights into:
 - **Customer Behavior**
 - **Product Performance**
@@ -33,10 +33,10 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## License
+## License:
 
 This project is licensed under the [MIT license]. You are free to use, modify, and share this project with proper attribution
 
-## About ME
+## About ME:
 
 Howdy! I'm **Arthur P.** I'm a pasionate data engineer working up my skills.
